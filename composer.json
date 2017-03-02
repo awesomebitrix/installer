@@ -6,7 +6,7 @@
     "psr-4": {"Kitrix\\Installer\\": "src/"}
   },
   "extra": {
-    "class": "Kitrix\\Installer\\InstallerPlugin"
+    "class": "Kitrix\\Installer\\Plugin"
   },
   "require": {
     "composer-plugin-api": "^1.1"
