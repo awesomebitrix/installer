@@ -8,6 +8,7 @@
   "extra": {
     "class": "Kitrix\\Installer\\Plugin"
   },
+  "version": "1.0",
   "require": {
     "composer-plugin-api": "^1.1"
   }
