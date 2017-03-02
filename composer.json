@@ -1,0 +1,14 @@
+{
+  "name": "kitrix/installer",
+  "type": "composer-plugin",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {"Kitrix\\Installer\\": "src/"}
+  },
+  "extra": {
+    "class": "Kitrix\\Installer\\InstallerPlugin"
+  },
+  "require": {
+    "composer-plugin-api": "^1.1"
+  }
+}
